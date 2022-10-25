@@ -9,7 +9,7 @@ Repositório com as práticas realizadas em aula
 ![Gif Entra21](./entra21.gif)
 ## Aula Ministradas
 
-<img align="center" src="./giphy.gif" width="400 " height="300"a>
+<img align="center" src="./giphy.gif" width="400 " height="300">
 
 | AULA | ASSUNTO |
 |------|---------|
